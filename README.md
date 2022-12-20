@@ -1,1 +1,1 @@
-# kanata-1108-BlackJack_Playarea
+#BlackJack_Playarea
